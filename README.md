@@ -109,11 +109,11 @@ server_socket.close()
 ## OUTPUT:
 
 ## CLIENT:
-![Screenshot 2025-05-03 210908](https://github.com/user-attachments/assets/4d8f213f-d519-4b38-8ce0-38fb84cabc60)
+![Screenshot 2025-05-03 214334](https://github.com/user-attachments/assets/46b26e17-9f49-412a-80ff-66a849c8c187)
 
 ## SERVER:
 
-![Screenshot 2025-05-03 211001](https://github.com/user-attachments/assets/6636cf07-3b69-43a6-a804-cb903bd1ccc6)
+![Screenshot 2025-05-03 214411](https://github.com/user-attachments/assets/28d2f3fa-8880-426d-a358-0ee37fdd38d8)
 
 
 ## Result:
